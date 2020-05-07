@@ -1,0 +1,31 @@
+.buttons {
+    width: 90vw;
+    border: solid 5px black;
+    display: flex;
+}
+
+.prev {
+    width: 27vw;
+    text-align: center;
+    background-color: midnightblue;
+    color: white;
+}
+
+.question_number {
+    width: 37vw;
+    text-align: center;
+    background-color: gray;
+    color: white;
+}
+
+.next {
+    width: 27vw;
+    text-align: center;
+    background-color: midnightblue;
+    color: white;
+}
+
+.question {
+    width: 90vw;
+    border: solid 5px black;
+}
